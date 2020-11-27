@@ -7,5 +7,9 @@ public class MarwanPractice1 {
         // i am doing this for practice
         // adding a comment from github.com
 
+        for (int i = 1; i<5 ;i++){
+            System.out.println("Hello Ruslan");
+        }
+
     }
 }
