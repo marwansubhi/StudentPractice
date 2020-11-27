@@ -10,6 +10,7 @@ public class MarwanPractice1 {
         for (int i = 1; i<5 ;i++){
             System.out.println("Hello Ruslan");
         }
+        // adding a comment1
 
     }
 }
