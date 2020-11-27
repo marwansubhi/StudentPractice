@@ -5,6 +5,7 @@ public class MarwanPractice1 {
         System.out.println("Good evening everyone");
         // so far good
         // i am doing this for practice
+        // adding a comment from github.com
 
     }
 }
