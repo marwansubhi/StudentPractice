@@ -12,6 +12,7 @@ public class MarwanPractice1 {
         }
         // adding a comment1
         // adding a comment2
+        // adding a comment3
 
     }
 }
