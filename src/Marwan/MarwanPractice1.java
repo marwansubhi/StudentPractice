@@ -11,6 +11,7 @@ public class MarwanPractice1 {
             System.out.println("Hello Ruslan");
         }
         // adding a comment1
+        // adding a comment2
 
     }
 }
